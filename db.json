@@ -1,0 +1,25 @@
+{
+  "person-details" : [
+   {
+    "id": 1,
+    "first_name": "Hema",
+    "last_name": "HG",
+    "email": "hema13@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "forine",
+    "last_name": "jack",
+    "email": "forinejack@gmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Shell",
+    "last_name": "Kos",
+    "email": "shellkos@gmail.com",
+    "gender": "Female"
+  }
+]}
+
