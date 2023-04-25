@@ -12,9 +12,6 @@ export const Details: FunctionComponent = () => {
   }
   return (
     <>
-      <div>
-        details page
-      </div>
       <Button onClick={onClickBackButton}>Back to Person list</Button>
     </>
   )
